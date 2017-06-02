@@ -1,5 +1,5 @@
-C:/XDK-Workbench/workspace/xdk_ble_play/debug/objects/main.o: \
- C:/XDK-Workbench/workspace/xdk_ble_play/source/main.c \
+/opt/XDK-Workbench/workspace/xdk_ble_play/debug/objects/main.o: \
+ /opt/XDK-Workbench/workspace/xdk_ble_play/source/main.c \
  ../Platform/Basics/include/BCDS_Basics.h \
  ../Common/./include/XdkSystemStartup.h
 
